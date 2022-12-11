@@ -85,7 +85,6 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 	will-change: transform;
-	overflow: hidden;
 }
 
 .main__continue {
